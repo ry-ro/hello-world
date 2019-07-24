@@ -1,0 +1,6 @@
+Task list
+
+1. Obtain the data
+2. Summarize key variables
+3. Write short report
+
